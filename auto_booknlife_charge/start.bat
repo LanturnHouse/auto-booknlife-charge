@@ -1,0 +1,2 @@
+python AutoCharge.py
+pause
